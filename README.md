@@ -2,7 +2,7 @@
 
 A sample django project I created demonstrating Django queries for an interview
 
-This Django project is deployed and running live at: http://transvec.com/django_query_sample
+This Django project is deployed and running live at: http://transvec.com/django_query_demo
 
 More notes and details can be found on the live demo page.
 
